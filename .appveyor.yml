@@ -1,4 +1,4 @@
-    ```yaml
+
     build_script:
         - ps: |
               Write-Host "Installing Java 11..."
